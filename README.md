@@ -3,7 +3,7 @@
 Install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/) yourself, then run:
 
 ``` bash
-$ curl -s https://raw.githubusercontent.com/samuelshock/odoo_14_installation.git/master/run.sh | sudo bash -s crm_ibnorca 10013
+$ curl -s https://raw.githubusercontent.com/samuelshock/odoo_14_installation/master/run.sh | sudo bash -s crm_ibnorca 10013
 ```
 
 Some arguments:
