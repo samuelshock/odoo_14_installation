@@ -1,0 +1,1 @@
+This is the folder and path where the custom plugins are stored
